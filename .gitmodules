@@ -1,9 +1,0 @@
-[submodule "dmenu"]
-	path = dmenu
-	url = https://chatrajaman3/suckless
-[submodule "dwm"]
-	path = dwm
-	url = https://chatrajaman3/suckless
-[submodule "st"]
-	path = st
-	url = https://chatrajaman3/suckless
